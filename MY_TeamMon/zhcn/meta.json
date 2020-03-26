@@ -2,6 +2,6 @@
   "name": "【战场自用0.5】测试版 含旗/箱/山河等焦点 关键buff/npc/公告 可能会有一些bug 记得反馈给我~",
   "author": "阿蚌",
   "version": "20200326",
-  "data_url": ,
+  "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
